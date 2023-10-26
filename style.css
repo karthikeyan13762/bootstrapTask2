@@ -33,8 +33,8 @@
 }
 .radio{
     display: inline-block;
-    width: 55%;
-    height: 50%;
+    width: 55px;
+    height: 11px;
   
 }
 .gray{
@@ -49,7 +49,7 @@
     font-size: 80%;
 }
 .cotentDetail{
-   font-size: 50%;
+   font-size: 70%;
    color: rgb(24,49,83);
 }
 .row-2{
@@ -125,7 +125,7 @@
     margin: 10px;
    }
    .textarae{
-    width: 90%;
+    width: 96%;
     margin-left:1%;
 }
 }
