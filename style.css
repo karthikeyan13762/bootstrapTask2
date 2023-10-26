@@ -62,7 +62,7 @@
     font-size: 12px;
     padding: 5px;
 }
-@media (Max-width:576px) {
+@media (Max-width:506px) {
     .firstLast{
         font-size: 12px;
         color: rgb(127,146,165);
@@ -88,15 +88,17 @@
       
     }
     .fiveStarsContent{
-        font-size: 7px;
+        font-size: 3%;
+        line-height: 5px;
         color: rgb(109, 113, 119);
     margin-top: 15px;
+    
         
     }
     .radio{
         display: inline-block;
-        width: 28%;
-        height: 75%;
+        width: 55%;
+        height: 55%;
         margin-top: 3px;
         margin-left: 40%;
        
@@ -113,7 +115,8 @@
         font-size: 70%;
     }
    .cmd{
-    font-size: 30%;
+    font-size: 11px;
+    line-height: 10px;
   
    }
    .rowHeading{
