@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+  background:rgb(255,255,255);
+  
+  
+}
+.fa-star{
+    font-size: 7px;
+    color: rgb(255,103,113);
+}
+.firstLast{
+    font-size: 14px;
+    color: rgb(127,146,165);
+}
+.nameEmail{
+    font-size: 16px;
+    color: rgb(21,38,77);
+}
+#email{
+    width: 53.5vw;
+}
+.first-last{
+    width: 25vw;
+}
+.fiveStars{
+    font-size: 16px;
+}
+.fiveStarsContent{
+    color: rgb(109, 113, 119);
+}
+.radio{
+    display: inline-block;
+    width: 55%;
+    height: 50%;
+  
+}
+.gray{
+    background-color: rgb(241,241,241);
+
+}
+.rows{
+    padding-top: 1%;
+    margin-right: 5px;
+}
+.cmd{
+    font-size: 80%;
+}
+.cotentDetail{
+   font-size: 50%;
+   color: rgb(24,49,83);
+}
+.row-2{
+    margin-top: 10px;
+}
+.textarae{
+    width: 79vw;
+}
+#Submit{
+    font-size: 12px;
+    padding: 5px;
+}
+@media (Max-width:576px) {
+    .firstLast{
+        font-size: 12px;
+        color: rgb(127,146,165);
+    }
+    .fa-star{
+        font-size: 6px;
+        color: rgb(255,103,113);
+    }
+    .first-last{
+        width: 23vw;
+        height: 2.5vh;
+    }
+    #email{
+        width: 56vw;
+        height: 2.5vh;
+    }
+    .nameEmail{
+        font-size: 13px;
+        color: rgb(21,38,77);
+    }
+    .fiveStars{
+        font-size: 13px;
+      
+    }
+    .fiveStarsContent{
+        font-size: 7px;
+        color: rgb(109, 113, 119);
+    margin-top: 15px;
+        
+    }
+    .radio{
+        display: inline-block;
+        width: 28%;
+        height: 75%;
+        margin-top: 3px;
+        margin-left: 40%;
+       
+    
+      
+      
+    }
+    .purchase{
+        display: inline-block;
+        line-height: 2px;
+        color: rgb(54, 66, 77);
+        padding-right: 5px;
+        margin-right: 15%;
+        font-size: 70%;
+    }
+   .cmd{
+    font-size: 30%;
+  
+   }
+   .rowHeading{
+    /* margin-left: 5px; */
+    text-align: center;
+    margin: 10px;
+   }
+   .textarae{
+    width: 90%;
+    margin-left:1%;
+}
+}
